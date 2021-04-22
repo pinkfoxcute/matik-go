@@ -1,0 +1,4 @@
+#Thu Apr 22 12:49:16 WIB 2021
+base.0=/home/zaahira/AndroidStudioProjects/MatikGo/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

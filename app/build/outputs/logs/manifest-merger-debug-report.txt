@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/7eefad016ee30c489c783f2bed5aac98/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4366129a84a590a7b8c6da1a7f801565/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-instantapps:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/be990080b6671e380cb180c9f06ef36b/jetified-play-services-instantapps-16.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/d422e3ca2bedd21237a95dd506477f9e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/635a25a00d7c3f1aca93c0e3f7e7b9fd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46c209aac37f91cb9a5fe2da96ee3931/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/500ce5b4dbe2b5df93b282af3eabf29a/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/82ac6d2b0d85575a7a390a0aa931388a/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/1a63ac00805a84532fcc541d0b37740e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/9cb9ce310d89886236e8c2a89b3f1fe4/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/87e04c11197d95a1b9d45f418102ce81/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/15b7d2c637a5e7ee85f9d0c91a1f855d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/48a31143b5e786b004a1b44cd2eaba3d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/705afb0cb85b25b6090a4f61d8b69c9a/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/dff972297511be67d92bdb2f5a33d735/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4e6d146d1c26c8028e7b58c093d235e0/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/155baaa2c08607f930cca8787cf91322/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/25ee6774d1d47424b485d0a38024b636/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/de993acc87df97ef534723cb217f865d/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/d3e9a7f8a9a75bf4155f161860f979f6/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ebfbd9b6db90d6d31197fb8bcb7a21e7/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4e076edf582ab0293eb5e2e52f256931/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/e8929803e514fcc4f901f9888530f42c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/a1e76d9c092a5e25cf1060b5664d543d/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ed4e99f8fb1b55d4d6b3c9619b1f8867/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4b097b964e9709c2a3201cbc12da23f5/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/cbb5a5634015128160d71dca04408f39/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/479745b14705ca6f6a5cc117dd4a4560/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4c29b7a05ccad251d47b4b66c8e3010d/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/11ad04fd2cecb6ead6d7f376e706d568/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/e2f772aaeff566c9bb3f76558a5db16d/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/cf9e919e5f114cf202f1c1dc9f51ad67/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+	package
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:18:5-61
+	android:versionCode
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:1-56:12
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:17:11-69
+dist:module
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:21:5-40
+	dist:instant
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:21:18-37
+application
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:22:5-55:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4366129a84a590a7b8c6da1a7f801565/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4366129a84a590a7b8c6da1a7f801565/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/d422e3ca2bedd21237a95dd506477f9e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/d422e3ca2bedd21237a95dd506477f9e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/635a25a00d7c3f1aca93c0e3f7e7b9fd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/635a25a00d7c3f1aca93c0e3f7e7b9fd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ebfbd9b6db90d6d31197fb8bcb7a21e7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ebfbd9b6db90d6d31197fb8bcb7a21e7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4e076edf582ab0293eb5e2e52f256931/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4e076edf582ab0293eb5e2e52f256931/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ebfbd9b6db90d6d31197fb8bcb7a21e7/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:23:9-35
+activity#com.instantappsample.storage.StorageApiActivity
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:26:9-54:20
+	android:label
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:28:13-57
+	android:theme
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:27:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:31:13-34:29
+	android:label
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:31:28-60
+action#android.intent.action.MAIN
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:33:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:storage-api.instantappsample.com+data:path:/+data:scheme:http+data:scheme:https
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:36:13-48:29
+	android:autoVerify
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:37:17-42
+	android:order
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:38:17-34
+action#android.intent.action.VIEW
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:41:17-78
+	android:name
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:41:27-75
+category#android.intent.category.DEFAULT
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:42:27-73
+data
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:44:17-48
+	android:path
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:46:23-39
+	android:host
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:47:23-70
+	android:scheme
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:44:23-45
+meta-data#default-url
+ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:50:13-52:77
+	android:value
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:52:17-74
+	android:name
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml:51:17-43
+uses-sdk
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/7eefad016ee30c489c783f2bed5aac98/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/7eefad016ee30c489c783f2bed5aac98/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4366129a84a590a7b8c6da1a7f801565/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4366129a84a590a7b8c6da1a7f801565/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-instantapps:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/be990080b6671e380cb180c9f06ef36b/jetified-play-services-instantapps-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/be990080b6671e380cb180c9f06ef36b/jetified-play-services-instantapps-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/d422e3ca2bedd21237a95dd506477f9e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/d422e3ca2bedd21237a95dd506477f9e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/635a25a00d7c3f1aca93c0e3f7e7b9fd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/635a25a00d7c3f1aca93c0e3f7e7b9fd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46c209aac37f91cb9a5fe2da96ee3931/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46c209aac37f91cb9a5fe2da96ee3931/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/500ce5b4dbe2b5df93b282af3eabf29a/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/500ce5b4dbe2b5df93b282af3eabf29a/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/82ac6d2b0d85575a7a390a0aa931388a/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/82ac6d2b0d85575a7a390a0aa931388a/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/1a63ac00805a84532fcc541d0b37740e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/1a63ac00805a84532fcc541d0b37740e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/9cb9ce310d89886236e8c2a89b3f1fe4/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/9cb9ce310d89886236e8c2a89b3f1fe4/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/87e04c11197d95a1b9d45f418102ce81/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/87e04c11197d95a1b9d45f418102ce81/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/15b7d2c637a5e7ee85f9d0c91a1f855d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/15b7d2c637a5e7ee85f9d0c91a1f855d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/48a31143b5e786b004a1b44cd2eaba3d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/48a31143b5e786b004a1b44cd2eaba3d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/705afb0cb85b25b6090a4f61d8b69c9a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/705afb0cb85b25b6090a4f61d8b69c9a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/dff972297511be67d92bdb2f5a33d735/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/dff972297511be67d92bdb2f5a33d735/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4e6d146d1c26c8028e7b58c093d235e0/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4e6d146d1c26c8028e7b58c093d235e0/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/155baaa2c08607f930cca8787cf91322/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/155baaa2c08607f930cca8787cf91322/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/25ee6774d1d47424b485d0a38024b636/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/25ee6774d1d47424b485d0a38024b636/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/de993acc87df97ef534723cb217f865d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/de993acc87df97ef534723cb217f865d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/d3e9a7f8a9a75bf4155f161860f979f6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/d3e9a7f8a9a75bf4155f161860f979f6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ebfbd9b6db90d6d31197fb8bcb7a21e7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ebfbd9b6db90d6d31197fb8bcb7a21e7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4e076edf582ab0293eb5e2e52f256931/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4e076edf582ab0293eb5e2e52f256931/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/e8929803e514fcc4f901f9888530f42c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/e8929803e514fcc4f901f9888530f42c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/a1e76d9c092a5e25cf1060b5664d543d/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/a1e76d9c092a5e25cf1060b5664d543d/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ed4e99f8fb1b55d4d6b3c9619b1f8867/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/ed4e99f8fb1b55d4d6b3c9619b1f8867/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4b097b964e9709c2a3201cbc12da23f5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4b097b964e9709c2a3201cbc12da23f5/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/cbb5a5634015128160d71dca04408f39/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/cbb5a5634015128160d71dca04408f39/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/479745b14705ca6f6a5cc117dd4a4560/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/479745b14705ca6f6a5cc117dd4a4560/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4c29b7a05ccad251d47b4b66c8e3010d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/4c29b7a05ccad251d47b4b66c8e3010d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/11ad04fd2cecb6ead6d7f376e706d568/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/11ad04fd2cecb6ead6d7f376e706d568/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/e2f772aaeff566c9bb3f76558a5db16d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/e2f772aaeff566c9bb3f76558a5db16d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/cf9e919e5f114cf202f1c1dc9f51ad67/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/zaahira/.gradle/caches/transforms-2/files-2.1/cf9e919e5f114cf202f1c1dc9f51ad67/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+		ADDED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zaahira/AndroidStudioProjects/MatikGo/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/46d703526881532ac64a1b85f2bbf996/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/635a25a00d7c3f1aca93c0e3f7e7b9fd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/635a25a00d7c3f1aca93c0e3f7e7b9fd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/zaahira/.gradle/caches/transforms-2/files-2.1/635a25a00d7c3f1aca93c0e3f7e7b9fd/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
